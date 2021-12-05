@@ -17,6 +17,8 @@ It is team based and with similar capture the flag type match play to win variat
 The teams are 'Pandus' and 'Kurus'. 
 
 ## Terrain
+#  🐘
+# 🐘🐘
 The basic military unit of the 18 day war described in the Hindu Epic, Mahabharata. 'One chariot, three horses, one elephant, five soldiers make up a Patti.'
 The flow of the game as a scroller follows the bi-directional flow of the elephants and chariots moving in streams. Players can jump onto the chariots from the ground, and onto elephants' backs from the chariots. The effect of elephants in a line should be like jumping on moving train cars in a western shooter. The goal of combat on the back of an elephant is to knock the other player back onto the ground. Jumping  onto chariots from the ground should be like GTA car jacking. 
 
@@ -70,4 +72,4 @@ Ashvwatthama the elephant - A larger than life war elephant that loves to flip o
 # Fine Print Mission Statement
 'Game of Patti' is a lightweight development framework modeled on Agile software development for experience seeking applicants. The point of the game is to provide an unending stream of implementation work for motivated candidates to pursue. The work shall be placed in a public GitHub, that the developer seeking experience can reference as an online portfolio.As the product owner, I intend to provide only the development platform, I have no bandwidth to participate as a developer. 
 
-To participate please email my user name at gmail.com for access rights to make pull requests in this github repo.
+To participate please email my user name at gmail.com for access rights to make pull requests in this github repo. 
