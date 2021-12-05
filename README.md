@@ -60,10 +60,10 @@ Pandus - Arjuna (unlimited arrows), Bhima (instant kill with bare hands and dead
 Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows), Karna (special arrow rocks chariots, throwing players to ground) Ashwatthama (celestial arrow).
 ### Hero Non-Player Character
 
-Krishna's chariot - Outfitted with four horses, two more than the standard game chariot, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Only available to the Pandus.
+Krishna's chariot - Outfitted with four horses, more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Only available to the Pandus.
 
 
-Ashvwatthama the elephant - A larger than life war elephant that loves to flip over the Pandu's chariots with his huge tusks. Ashvwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the kurus can be dislodged from the elephant's back by the Pandus.  
+Ashvwatthama the elephant - A larger than life war elephant that loves to flip over Pandu chariots with his huge tusks. Ashvwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the kurus can be dislodged from the elephant's back by the Pandus.  
 
 # Fine Print Mission Statement
 'Game of Patti' is a lightweight development framework modeled on Agile software development for experience seeking applicants. The point of the game is to provide an unending stream of implementation work for motivated candidates to pursue. The work shall be placed in a public GitHub, that the developer seeking experience can reference as an online portfolio.As the product owner, I intend to provide only the development platform, I have no bandwidth to participate as a developer. 
