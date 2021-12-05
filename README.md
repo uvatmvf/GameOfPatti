@@ -40,7 +40,7 @@ Players can be damaged by NPCs, such as getting thrown and trampled under an ele
 ## NPC combatants
 NPC kshatriyas AI, if included, should be as effective as first generation storm troopers.
 
-## NPCs as non-combatants
+## NPCs non-combatants
 Elephants and Chariot drivers are non-combatant NPC driven by AI. They are more like moving terrain than player territory. The players may fight from chariots or elephant back, but do not steer them are not able to meaningfully damage or kill the horses or chariot drivers to disrupt game play.
 
 # Product Backlog
