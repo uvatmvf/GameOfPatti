@@ -12,7 +12,7 @@ This project follows industry standards of Agile Test Driven Development.
 'Game of Patti' is a scrolling first person video game in the same lineage as Rainbow 6, Counterstrike, FortNite, meets Mario Kart. 
 It is team based and with similar capture the flag type match play to win variations. 
 
-# Reguirements
+# Requirements
 ## Teams
 The teams are 'Pandus' and 'Kurus'. 
 
@@ -32,9 +32,9 @@ Players use range and melee weapons (bows and arrows, lances, clubs and swords.)
 As a first person shooter, players have an array of weapon choices.
 Choice of weapon is restricted by terrain, and mode of combat.
 
-Bows and arrows are used only from within chariots. With the exception of special weapons, arrows are not unlimited. Arrows should regenerate like mana. Replenishment should be a point of gameplay for replenishment.
+Bows and arrows are used only from within chariots. With the exception of special weapons, arrows are not unlimited. Arrows regenerate like mana. Replenishment should be a point of gameplay.
 
-Lances are used only from atop an elephant to attack grounded combatants; whom can defend themselves by successfully grabbing the lance and pulling the attacker off the elephant.
+Lances are used from atop an elephant to attack grounded combatants; whom can defend themselves by successfully grabbing the lance and pulling the attacker off the elephant.
 A chariot that is struck by a lance should throw the wielder with damage.
 Player combat on the ground using swords maces and fists.
 Players can be damaged by NPCs, such as getting thrown and trampled under an elephant.
@@ -61,13 +61,13 @@ Each team is led by 3-4 heroes, each with a special weapon ability.
 
 Pandus - Arjuna (unlimited arrows), Bhima (instant kill with bare hands and deadly mace combat), Abhimanyu (fast rate of fire), Sahadeva (deadly sword combat)
 
-Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows), Karna (special arrow rocks chariots, throwing players to ground) Ashwatthama (celestial arrow).
+Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows), Karna (knockback arrow rocks chariots, possibly throwing players to ground) Ashwatthama (celestial arrow).
 ### Hero Non-Player Character
 
-Krishna's chariot - Outfitted with four horses, more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Only available to the Pandus.
+Krishna's chariot - Outfitted with four horses, more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Krishna's chariot is immune to Karna's knock back arrow. Only available to the Pandus.
 
 
-Ashvwatthama the elephant - A larger than life war elephant that loves to flip over Pandu chariots with his huge tusks. Ashvwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the kurus can be dislodged from the elephant's back by the Pandus.  
+Ashwatthama the elephant - A larger than life war elephant that loves to flip over Pandu chariots with his huge tusks. Ashwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the kurus can be dislodged from the elephant's back by the Pandus.  
 
 # Fine Print Mission Statement
 'Game of Patti' is a lightweight development framework modeled on Agile software development for experience seeking applicants. The point of the game is to provide an unending stream of implementation work for motivated candidates to pursue. The work shall be placed in a public GitHub, that the developer seeking experience can reference as an online portfolio.As the product owner, I intend to provide only the development platform, I have no bandwidth to participate as a developer. 
