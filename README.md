@@ -51,10 +51,14 @@ Elephants and Chariot drivers are non-combatant NPC driven by AI. They are more 
 Players can play regular warrior characters. Kshatriyas do not have any special abilities at the start of a round, but can acquire in game weapons or abilities by defeating heroes in combat.
 ### Hero Player Characters 
 Each team is led by 3-4 heroes, each with a special weapon ability. 
+
 Pandus - Arjuna (unlimited arrows), Bhima (instant kill with bare hands), Abhimanyu (fast rate of fire), Sahadeva (deadly sword combat)
 Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows), Karna (special arrow rocks chariots, throwing players to ground) Ashwatthama (celestial arrow).
 ### Hero Non-Player Character
+
 Krishna's chariot - Outfitted with four horses, two more than the standard game chariot, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Only available to the Pandus.
+
+
 Ashvwatthama the elephant - A larger than life war elephant that loves to flip over the Pandu's chariots with his huge tusks. Ashvwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the kurus can be dislodged from the elephant's back by the Pandus.  
 
 # Fine Print Mission Statement
