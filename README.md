@@ -9,7 +9,7 @@ This project is for people looking to gain real world software experience for th
 This project follows industry standards of Agile Test Driven Development.
 
 ## Game of Patti
-'Game of Patti' is a scrolling first person video game. It is team based and should have similar capture the flag type match win variations; in the same lineage as Rainbow 6, Counterstrike, FortNite, etc.
+'Game of Patti' is a scrolling first person video game in the same lineage as Rainbow 6, Counterstrike, FortNite, etc. It is team based and with similar capture the flag type match play to win variations. 
 
 # Reguirements
 ## Teams
