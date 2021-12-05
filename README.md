@@ -2,7 +2,7 @@
 # Concept
 - P- This is not for paid work and is a non profit venture.
 - A- Agile
-- TT - Test driven. Two Ts for emphasis
+- TT - Test driven. Two Ts for emphasis.
 - I - This is for you, the developer. Own the work and experience.
 
 This project is for people looking to gain real world software experience for their CV.
