@@ -59,12 +59,12 @@ Players can play regular warrior characters. Kshatriyas do not have any special 
 Each team is led by 3-4 heroes, each with a special weapon ability. 
 
 
-Pandus - Arjuna (unlimited arrows), Bhima (instant kill with bare hands and deadly mace combat), Abhimanyu (fast rate of fire), Sahadeva (deadly sword combat)
+Pandus - Arjuna (unlimited arrows and sniper vision), Bhima (instant kill with bare hands and deadly mace combat), Abhimanyu (fast rate of fire), Sahadeva (deadly sword combat)
 
-Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows), Karna (knockback arrow rocks chariots, possibly throwing players to ground) Ashwatthama (celestial arrow).
+Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows and extended lance range), Karna (knockback arrow rocks chariots, possibly throwing players to ground) Ashwatthama (celestial arrow).
 ### Hero Non-Player Character
 
-Krishna's chariot - Outfitted with four horses, more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Krishna's chariot is immune to Karna's knock back arrow. Only available to the Pandus.
+Krishna's chariot - Outfitted with four horses, more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Players in Krishna's chariot are immune to being thrown off the chariot by Karna's knock back arrow. Only available to the Pandus.
 
 
 Ashwatthama the elephant - A larger than life war elephant that loves to flip over Pandu chariots with his huge tusks. Ashwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the Kuru players can be dislodged from the elephant's back by the Pandus.  
