@@ -63,7 +63,7 @@ Elephants and Chariot drivers are non-combatant NPC driven by AI. They are more 
 ### Kshatriya Player Characters
 Players can play regular warrior characters. Kshatriyas do not have any special abilities at the start of a round, but can acquire in game weapons or abilities by defeating heroes in combat.
 ### Hero Player Characters 
-Each team is led by 3-4 heroes, each with a special weapon ability. 
+Each team is led by 3-4 heroes, with special weapon ability. 
 
 
 Pandus - Arjuna (unlimited arrows, deadly archery, sword and mace combat), Bhima (deadly bare handed and mace combat), Abhimanyu (fast rate of fire and deadly lance combat), Sahadeva (deadly sword combat)
