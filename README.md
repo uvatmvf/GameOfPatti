@@ -61,7 +61,7 @@ Each team is led by 3-4 heroes, each with a special weapon ability.
 
 Pandus - Arjuna (unlimited arrows and sniper vision), Bhima (instant kill with bare hands and deadly mace combat), Abhimanyu (fast rate of fire), Sahadeva (deadly sword combat)
 
-Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows and extended lance range), Karna (knockback arrow rocks chariots, possibly throwing players to ground) Ashwatthama (celestial arrow).
+Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows and extended lance range), Karna (knockback arrow rocks chariots, possibly throwing players to ground, and sniper vision) Ashwatthama (celestial arrow - an arrow from above that strikes all armed players on the ground).
 ### Hero Non-Player Character
 
 Krishna's chariot - Outfitted with four horses, more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game and can be steered by a human player. Players in Krishna's chariot are immune to being thrown off the chariot by Karna's knock back arrow. Only available to the Pandus.
