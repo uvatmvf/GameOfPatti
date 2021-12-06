@@ -66,7 +66,7 @@ Players can play regular warrior characters. Kshatriyas do not have any special 
 Each team is led by 3-4 heroes, each with a special weapon ability. 
 
 
-Pandus - Arjuna (unlimited arrows, sniper vision and deadly sword combat), Bhima (deadly bare handed and mace combat), Abhimanyu (fast rate of fire and deadly lance range), Sahadeva (deadly sword combat)
+Pandus - Arjuna (unlimited arrows, sniper vision and deadly sword combat), Bhima (deadly bare handed and mace combat, shoulder charge knock-back rocks chariots, possibly dislodging player), Abhimanyu (fast rate of fire and deadly lance range), Sahadeva (deadly sword combat)
 
 Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows and deadly lance range), Karna (knockback arrow rocks chariots, possibly throwing players to ground, sniper vision and deadly bare handed combat) Ashwatthama (celestial arrow - an arrow from above that strikes all armed players on the ground).
 ### Hero Non-Player Character
