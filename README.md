@@ -74,7 +74,7 @@ Kurus - Duryodhana (deadly mace combat), Drona (unlimited arrows and deadly lanc
 Krishna's chariot - Outfitted with four horses, faster w/ more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game. Players in Krishna's chariot are immune to being thrown off the chariot by Karna's knock back arrow. Only available to the Pandus.
 
 
-Ashwatthama the elephant - A larger than life war elephant that loves to flip over Pandu chariots with his huge tusks. Ashwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the Kuru players can be dislodged from the elephant's back by the Pandus. Ashwatthama the elephant can only be jumped onto from another elephant's back.
+Ashwatthama the elephant - A larger than life war elephant that loves to flip over Pandu chariots with his huge tusks. Ashwatthama the elephant starts each match with the Kurus, but can be commandeered by any human player if the Kuru players can be dislodged from the elephant's back by the Pandus. (Optional) Ashwatthama the elephant can only be jumped onto from another elephant's back.
 
 # Fine Print Mission Statement
 'Game of Patti' is a lightweight development framework modeled on Agile software development for experience seeking applicants. The point of the game is to provide an unending stream of implementation work for motivated candidates to pursue. The work shall be placed in a public GitHub, that the developer seeking experience can reference as an online portfolio.As the product owner, I intend to provide only the development platform, I have no bandwidth to participate as a developer. 
