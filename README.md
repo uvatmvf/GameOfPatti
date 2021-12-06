@@ -1,4 +1,4 @@
-# GameOfPatti
+# Game Of Patti
 # Concept
 - P- This is not for paid work and is a non profit venture.
 - A- Agile
