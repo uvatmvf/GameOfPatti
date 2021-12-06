@@ -34,8 +34,9 @@ Choice of weapon is restricted by terrain, and mode of combat.
 
 Bows and arrows are used from chariots. With the exception of special weapons, arrows are not unlimited. Arrows regenerate like mana. 
 Lances are used from atop an elephant to attack grounded combatants; whom can defend themselves by successfully grabbing the lance and pulling the attacker off the elephant.
-Player to Player combat atop an elephant or on a chariot uses fists to throw or punch a combatant off. 
-Player to Player combat on the ground uses swords maces and fists.
+Player to Player combat atop an elephant uses fists. 
+Player to Player combat on a chariot uses fists or swords.
+Player to Player combat on the ground uses swords, maces or fists.
 A chariot that is struck by a lance should throw the wielder with damage.
 Players can be damaged by NPCs, such as getting thrown and trampled under an elephant.
 
