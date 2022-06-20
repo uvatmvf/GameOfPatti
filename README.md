@@ -77,12 +77,12 @@ Each team is led by 3-4 heroes, with special weapon ability.
 - Duryodhana (deadly mace combat)
 - Drona (unlimited arrows and deadly lance combat)
 - Karna (knockback arrow rocks chariots, possibly throwing players to ground, deadly archery and bare-handed combat) 
-- Ashwatthama (celestial arrow - an arrow from above that strikes all armed players on the ground).
+- Ashvatthama (celestial arrow - an arrow from above that strikes all armed players on the ground).
 ### Hero Non-Player Character
 
 Krishna's chariot - Outfitted with four horses, faster w/ more horsepower than the standard game chariots that have 2-3 horses, Krishna's chariot is Arjuna's starting point in the game. Players in Krishna's chariot are immune to being thrown off the chariot by Karna's knock back arrow. Only available to the Pandus.
 
-Ashwatthama the elephant - A larger than life war elephant that loves to flip slow moving Pandu chariots with his huge tusks. Ashwatthama the elephant starts each match with the Kurus, but can be commandeered by either side.
+Ashvatthama the elephant - A larger than life war elephant that loves to flip slow moving Pandu chariots with his huge tusks. Ashvatthama the elephant starts each match with the Kurus, but can be commandeered by either side.
 
 # Fine Print Mission Statement
 'Game of Patti' is a lightweight development framework modeled on Agile software development for experience seeking applicants. The point of the game is to provide an unending stream of implementation work for motivated candidates to pursue. The work shall be placed in a public GitHub, that the developer seeking experience can reference as an online portfolio.As the product owner, I intend to provide only the development platform, I have no bandwidth to participate as a developer. 
@@ -124,7 +124,7 @@ Bhimasena hurled a javelin that flew like a venomous serpent. As that gold-shaft
 Subhadra's son used sharp arrows to slay Lakshmana's four horses and his charioteer. Lakshmana remained stationed on his chariot. He hurled a javelin at Abhimanyu. Abhimanyu sliced it down.
 ...
 
-Though pierced and wounded, Shikhandi whirled the fragment of the shattered sword. It suddenly descended, Ashvwattamha displayed the dexterity of his hands. He sliced it down and pierced Shikhandi with many iron arrows.
+Though pierced and wounded, Shikhandi whirled the fragment of the shattered sword. It suddenly descended, Ashvvattamha displayed the dexterity of his hands. He sliced it down and pierced Shikhandi with many iron arrows.
 ... 
 
 Pragjyotisha hurled fourteen javelins at Ghatotkacha, who sliced them all down. Having sliced the javelins down, Ghatotkacha lit him up with seventy gold-tufted arrows. Ghatotkacha hurled a javelin at Pragjyotisha's elephant. As it suddenly descended, the king cut it down into three and shattered, it felt down on the ground. Ghatotkacha fled.
@@ -150,3 +150,7 @@ The massive war elephant was enraged. It placed its leg on the yoke of the chari
 
 Bhimasena roams around with a club, like death.  Bhimasena, with the Chedis, met the Kalingas, led by Shrutaya. A fierce battle raged, terrible in form. ... With his horses slain, Bhimasena remained stationed on his chariot. He hurled a club of steel at Shakradeva. The son of Shrutaya was thus killed. Seeing his son fallen, Shrutaya moved to Bhima to attack. With the sword in his hand, Bhima used the elephant's tusks to climb onto its back. He sliced Bhanuman down the middle. He then made his sword descend on the neck of the elephant. With its neck severed, the elephant screamed and fell, like the summit of a mountain shattered by the battering sea. Bhima leaped from the falling elephant. He roamed along many paths, bringing down frightened elephants. Everywhere, he was a whirling wheel of fire. He slaughtered masses of horses, elephants, masses of chariots and infantry. Intoxicated, Bhima was seen in that battle, roaming like an angry hawk. Bhimasena was seen to display many different motions. Leaping onto chariots, horse riders, elephants. The elephants were slain, with the front and rears of their bodies, and their trunks, shattered. The arena was strewn with boulders of dead elephants.  Having killed many elephants, Bhima began to destroy the horses. He leapt up and brought down chariots. He cut them and their standards down with his sword. Shrutaya pierced Bhimasena with nine arrows. Bhima ascended a chariot and advanced to Shrutaya, king of Kalinga. Shrutaya pierced Bhima with nine arrows that Bhima rushed through - Bhima stretched his bow and killed the king with seven iron headed arrows. 
 - Bhishma Vadha Parva
+
+'When the narayana weapon was invoked, violent winds mixed with rain began to blow, though there were no clouds in the sky. The earth trembled and the great oceans were agitated. Instead of flowing towards the ocean, the rivers flowed in an opposite direction. Animals became agitated. There was darkness and the sun became dim.... Thousands of arrows, flaming at the tips, appeared in the sky like serpents with flaming mouths. In all directions the sky and the soldiers were enveloped in an instant. After this, iron balls appeared, like blazing stellar bodies in the clear skies. The four directions were covered by wheels of fire that circled and blazed. Wherever they clashed, in those spots, the weapon increased in power. All of them were consumed like dry wood. Krishna upon seeing this understood. He cried out, 'Swiftly lay down your weapons and descend from your mounts and your horses! This is the method of countering. All of you descend from the elephants, the horses and the chariots onto the ground!' ... On seeing they were unharmed, Ashvatthama was miserable. Having thought for some time about his father Drona's death, he was overcome with sorrow. He released deep and warm sighs. He cast aside his bow and descended violently from his chariot. 'Shame on everything. It is all false.' Saying this, Ashvatthama ran away.
+
+- Narayana Astra Moksha Parva
