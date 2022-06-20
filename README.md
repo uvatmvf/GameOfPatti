@@ -2,7 +2,7 @@
 ##   🐘
 ## 🐘🐘
 # Concept
-- P- This is not for paid work and is a non profit venture.
+- P- a non prophet venture.
 - A- Agile
 - TT - Test driven. Two Ts for emphasis.
 - I - This is for you, the developer. Own the work and experience.
