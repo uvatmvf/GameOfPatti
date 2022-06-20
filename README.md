@@ -107,7 +107,7 @@ On seeing how the soldiers of Dhritarashtra's sons were arranged in battle forma
 - Chapter 878-9. Bhagavad Gita Parva
 
 Kiriti (Arjuna) made a terrible river flow on the field of battle. The blood was the bodies of men wounded by weapons. The foam was human fat. Its expanse was broad and it flowed swiftly. The banks were formed by the dead bodies of elephants and horses. The mud was the entrails, marrow and flesh of men. Hordes of rakshasas and demons populated it. The moss was formed by heads, with the hair attached. Thousands of bodies were borne in the flow and the waves were formed by shattered fragments of armour. The bones of men, horses and elephants were the stones. A large number of crows, jackals, vultures and herons and many predators like hyenas lined up along its banks. Conveyed through the masses of Arjuna's arrows, that extremely fearful river conveyed fat, marrow and blood." 
-- Bhishma Vadha Parva. Mahabharata
+...
 
 Having surrounded Arjuna with chariots, they enveloped him in all directions with arrows. They hurled polished and sharp lances, clubs, maces, javelins, battleaxes, bludgeons and pestles toward Arjuna's chariot. That shower of weapons descended like a flight of locusts. But Partha sliced all of them with gold-decorated arrows.  
 ... 
