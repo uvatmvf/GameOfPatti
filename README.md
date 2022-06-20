@@ -20,7 +20,7 @@ The teams are 'Pandus' and 'Kurus'.
 
 ## Terrain
 
-The basic military unit of the 18 day war described in the Hindu Epic, Mahabharata. 'One chariot, three horses, one elephant, five soldiers make up a Patti.'
+The basic military unit of the 18 day war described in the Hindu Epic, Mahabharata. 'One chariot, three horses, one elephant, five soldiers make up a Patti.'; this breakdown allows for all four forces - two men on a chariot, one man on an elephant, one infantry and one cavalry.
 The flow of the game as a scroller follows the bi-directional flow of the elephants and chariots moving in streams. Players can jump onto the chariots from the ground, and onto elephants' backs from the chariots. The effect of elephants in a line should be like jumping on moving train cars in a western shooter. The goal of combat on the back of an elephant is to knock the other player back onto the ground. Jumping  onto chariots from the ground should be like GTA car jacking. 
 
 The game elements should scale with the number of players. More players, more elephants and chariots.
