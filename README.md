@@ -59,7 +59,8 @@ Elephants and Chariot drivers are non-combatant NPC driven by AI. They are more 
 - As a kshatriya, I want to lance ground combatants from the back of an elephant, so that I can snipe other players. 
 - As a kshatriya, I want to fight with maces, swords and fists on the ground, so that I can rock players that get knocked off elephants or chariots. 
 - As a kshatriya, I want to avoid damaging elephants, so that I do not get immediately gored or trampled.
-
+- As a kshatriya, I want to repulse missile weapons, so that I can defend myself. *
+ 
 ## Feature Backlog
 ### Kshatriya Player Characters
 Players can play regular warrior characters. Kshatriyas do not have any special abilities at the start of a round, but can acquire in game weapons or abilities by defeating heroes in combat.
@@ -87,3 +88,5 @@ Ashwatthama the elephant - A larger than life war elephant that loves to flip sl
 'Game of Patti' is a lightweight development framework modeled on Agile software development for experience seeking applicants. The point of the game is to provide an unending stream of implementation work for motivated candidates to pursue. The work shall be placed in a public GitHub, that the developer seeking experience can reference as an online portfolio.As the product owner, I intend to provide only the development platform, I have no bandwidth to participate as a developer. 
 
 To participate please email my user name at gmail.com for access rights to make pull requests in this github repo. 
+
+* Repulse missiles with ksurapra or half moon shaped arrows.
