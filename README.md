@@ -9,6 +9,7 @@
 
 This project is for people looking to gain real world software experience for their CV.
 This project follows industry standards of Agile Test Driven Development.
+![garuda-standard3](https://user-images.githubusercontent.com/4734526/174691093-3f0b62b5-c723-4c84-8957-64db626e7641.jpg)
 
 ## Game of Patti
 'Game of Patti' is a scrolling first person video game in the same lineage as Rainbow 6, Counterstrike, FortNite, meets Mario Kart. 
